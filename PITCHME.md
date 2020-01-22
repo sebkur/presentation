@@ -1,12 +1,11 @@
 @title[Start]
 
-## Mobanisto
-
+## <span class="gold">Mobanisto</span>
 ### 22 January 2020
 
 ---
 @title[Wernigerode Challenge]
-### Wernigerode Challenge
+### <span class="gold">Wernigerode Challenge</span>
 #### 8-10 August 2019
 #### DB mindbox
 
@@ -27,7 +26,7 @@
 
 ---
 @title[100 Days Program]
-### 100 Days Program
+### <span class="gold">100 Days Program</span>
 #### September - Dezember
 #### With: Beesonix, Vesputi, AundS
 
@@ -42,17 +41,18 @@
 
 ---
 @title[Learnings]
-### What did we learn?
+### <span class="gold">What did we learn?</span>
 
 ---?image=assets/images/mapping.jpg&size=contain
 @title[Mapping the town]
 
 ---
 @title[Learnings]
-### Mapping OSM
-### Implementing a API for third party app
-### Event crawling
-### Insights into DB problems
+### <span class="gold">Learnings</span>
+#### Mapping OSM
+#### Implementing an API for a third party app
+#### Event crawling (schema.org)
+#### Insights into DB problems
 
 <!---?image=assets/images/API.jpg&size=contain
 @title[API]-->
