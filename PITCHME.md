@@ -47,5 +47,12 @@
 ---?image=assets/images/mapping.jpg&size=contain
 @title[Mapping the town]
 
----?image=assets/images/API.jpg&size=contain
-@title[API]
+---
+@title[Learnings]
+### Mapping OSM
+### Implementing a API for third party app
+### Event crawling
+### Insights into DB problems
+
+<!---?image=assets/images/API.jpg&size=contain
+@title[API]-->
