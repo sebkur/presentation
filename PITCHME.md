@@ -12,6 +12,15 @@
 #### 8-10 August 2019
 #### DB mindbox
 
+---?image=assets/images/schloss.jpg&size=contain
+@title[Schloss]
+
+---?image=assets/images/brocken.jpg&size=contain
+@title[Brocken]
+
+---?image=assets/images/hsb.jpg&size=contain
+@title[HSB]
+
 ---?image=assets/images/Wernigerode3.jpg&size=contain
 @title[Wernigerode]
 
