@@ -31,9 +31,6 @@
 #### September - Dezember
 #### With: Beesonix, Vesputi, AundS
 
----?image=assets/images/mapping.jpg&size=contain
-@title[Mapping the town]
-
 ---?image=assets/images/DSC06004.JPG&size=contain
 @title[Terminal]
 
@@ -42,3 +39,13 @@
 
 ---?image=assets/images/DSC06026.JPG&size=contain
 @title[Terminal in the station]
+
+---
+@title[Learnings]
+### What did we learn?
+
+---?image=assets/images/mapping.jpg&size=contain
+@title[Mapping the town]
+
+---?image=assets/images/API.jpg&size=contain
+@title[API]
