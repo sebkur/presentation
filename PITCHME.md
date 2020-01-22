@@ -2,8 +2,6 @@
 
 ## Mobanisto
 
-#### <span class="gold">tools for the city of the future</span>
-
 ### 22 January 2020
 
 ---
