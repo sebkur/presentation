@@ -56,3 +56,12 @@
 
 <!---?image=assets/images/API.jpg&size=contain
 @title[API]-->
+
+---
+@title[This Year]
+### <span class="gold">This Year</span>
+#### CityLab (failed)
+#### Some freelancing on the side
+#### Continue work on UrbanDwin
+#### Apply for regular mindbox program
+#### Launch Mini-Apps
