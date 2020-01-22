@@ -11,3 +11,6 @@
 
 ---?image=assets/images/Wernigerode1.jpg&size=contain
 @title[Wernigerode]
+
+---?image=assets/images/mapping.jpg&size=contain
+@title[Mapping the town]
